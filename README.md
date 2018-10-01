@@ -1,2 +1,4 @@
 # Two-Level-Model
-a two-level model for table-to-text generation based RNN
+A two-level model for table-to-text generation based RNN
+
+Code will be moved here soon.
